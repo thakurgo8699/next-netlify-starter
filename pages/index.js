@@ -6,8 +6,9 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Paritosh Thakur</title>
         <link rel="icon" href="/favicon.ico" />
+    <meta name="google-site-verification" content="1h15XzNwqrvhu2pe2lMIVPA3ZgWEuhtgAxePmSnGv2s" />
       </Head>
 
       <main>
